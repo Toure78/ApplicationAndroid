@@ -3,7 +3,9 @@
 
 
 Rapport Application Android 
+
 Description du projet:
+
 Mon projet est une application avec une page d'accueil , un tableau de bord et une page de notifications.
 Ces 3 pages sont des fragments ce qui va permettre de changer de contenu en un simple clic.
 
@@ -11,6 +13,7 @@ Ces 3 pages sont des fragments ce qui va permettre de changer de contenu en un s
 
 
 Fonctionnalités:
+
 Dans cette page d'accueil nous avons la possibilite de consulter la meteo de plusieurs pays du monde grace a une API 
 
 
